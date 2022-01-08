@@ -128,5 +128,8 @@
                 </div>
             </div>
         </div>
+        <div class="container">
+            <h1>Welcome to laravel</h1>
+        </div>
     </body>
 </html>
